@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kintelya1 my pronouns are He/They
 - 👀 I’m interested in Coding, gaming, anime, and sports.
-- 🌱 I’m currently learning Java and C+.
+- 🌱 I’m currently learning Java and C++.
 - 💞️ I’m looking to collaborate on school projects.
 - 📫 How to reach me follow on twitter @Kintelya or email me at kj061820@ohio.edu
 
